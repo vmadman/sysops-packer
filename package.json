@@ -1,19 +1,21 @@
 {
-	"name": "sysops-packer",
-	"version": "0.1.0",
-	"description": "My Packer Templates",
-	"main": "lib/index.js",
-	"license": "MIT",
-	"repository": "https://github.com/vmadman/sysops-packer",
-	"author": [
-		{
-			"name": "Luke Chavers",
-			"email": "vmadman@gmail.com",
-			"url": ""
-		}
-	],
-	"publishConfig": {
-		"registry": "https://registry.npmjs.org/"
+	"name"        : "sysops-packer",
+	"version"     : "0.1.0",
+	"description" : "Luke's Packer Templates",
+	"license"     : "Apache2",
+	"repository"  : "https://github.com/vmadman/sysops-packer",
+	"author"      : {
+		"name"  : "Luke Chavers",
+		"email" : "vmadman@gmail.com",
+		"url"   : "http://lukechavers.com"
 	},
-	"keywords": []
+	"private"     : true,
+	"keywords"    : [
+		"packer",
+		"template",
+		"base",
+		"dev",
+		"image",
+		"vagrant"
+	]
 }
