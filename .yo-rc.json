@@ -1,0 +1,12 @@
+{
+  "generator-luke": {
+    "projectName": "sysops-packer",
+    "projectDesc": "My Packer Templates",
+    "fullName": "Luke Chavers",
+    "emailAddress": "vmadman@gmail.com",
+    "githubOwner": "vmadman",
+    "gitRepoName": "sysops-packer",
+    "vagrantPortStart": 3906,
+    "vagrantPortCount": 3
+  }
+}
