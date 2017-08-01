@@ -3,8 +3,7 @@ Sysops-Packer
 
 This repository contains my personal Packer templates, which are used
 to build various images (e.g. Vagrant Images) across my projects.
-
-* _Additional project/repo information can be found in [docs/about.md](./docs/about.md)._
+( [Read More](./docs/about.md) ).
 
 ## Basic Usage
 
@@ -25,15 +24,11 @@ Vagrant.configure("2") do |config|
 end
 ```
 
-* _Additional usage information can be found in [docs/usage.md](./docs/usage.md)._
+## Documentation
 
-## Building Templates
-
-* Build information can be found in [docs/building.md](./docs/building.md).
-
-## Developing & Contributing
-
-* Information about developing and contributing can be found in [docs/contributing.md](./docs/contributing.md).
+0. [Usage](./docs/usage.md) - Information about using my Vagrant boxes
+0. [Building](./docs/building.md) - Information about building my Packer Templates.
+0. [Contributing](./docs/contributing.md) - How to contribute to this repo.
 
 ## License
 
