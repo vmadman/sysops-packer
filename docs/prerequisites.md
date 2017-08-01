@@ -11,7 +11,7 @@ you must install the following applications on your local computer (host).
 - [Packer](https://www.packer.io/downloads.html) from HashiCorp
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) from Oracle
 
-# Prerequisite Versions
+## Prerequisite Versions
 
 Ensuring broad Vagrant, Packer, and VirtualBox compatibility is not
 within the scope of this project, but many versions of those
