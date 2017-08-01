@@ -15,3 +15,7 @@ very nice resource.
 
 * [Project Readme](../README.md) - Basic project information can be
 found in the project's README.md.
+
+## Useful Links
+
+* [Bento](https://github.com/chef/bento) - The Bento Project (Chef official)
