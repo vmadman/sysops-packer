@@ -13,8 +13,7 @@ very nice resource.
 
 ## Further Reading
 
-* [Project Readme](../README.md) - Basic project information can be
-found in the project's README.md.
+* [Project Readme](../README.md) - The project's README provides links to all other documentation.
 
 ## Useful Links
 

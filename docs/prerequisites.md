@@ -25,5 +25,4 @@ that this repo was developed against:
 ## Further Reading
 
 * [Building](./building.md) - Information about building these Packer Templates.
-* [Project Readme](../README.md) - Basic project information can be
-found in the project's README.md.
+* [Project Readme](../README.md) - The project's README provides links to all other documentation.
