@@ -7,7 +7,7 @@ to build various images (e.g. Vagrant Images) across my projects.
 
 ## Basic Usage
 
-I publish all of my Vagrant boxes to the [Vagrant Cloud](https://app.vagrantup.com/boxes/search),
+I publish all of my Vagrant boxes to the [Vagrant Cloud](https://app.vagrantup.com/boxes/search)
 and you are welcomed to use them for your own projects.
 
 Adding one of my boxes to Vagrant
