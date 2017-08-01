@@ -1,6 +1,12 @@
 Luke's Packer Templates: Usage
 ==============================
 
+## Prerequisites
+
+In order to use any of my images, you'll need Vagrant.
+
+- [Vagrant](https://www.vagrantup.com/downloads.html) (~1.8.5)
+
 ## Basic Usage
 
 I publish all of my Vagrant boxes to the [Vagrant Cloud](https://app.vagrantup.com/boxes/search)

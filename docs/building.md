@@ -2,12 +2,18 @@ Luke's Packer Templates: Building
 =================================
 
 This section describes how to build the Packer Templates found in this
-repository.  Before you get started, however, you'll need to meet this
-project's prerequisites, which are described at the URL below:
+repository.
 
-* [Prerequisites](./prerequisites.md) - Things you'll need.
+## Prerequisites
 
-## More here...
+Before you can build the Packer images provided by this repository,
+you must install the following applications on your local computer
+(host).
+
+- [Packer](https://www.packer.io/downloads.html) (~1.0.3)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (~5.1.2)
+
+## Building
 
 I should write this section..
 
