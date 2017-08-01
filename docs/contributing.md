@@ -1,5 +1,5 @@
-Sysops-Packer: Contributing
-===========================
+Luke's Packer Templates: Contributing
+=====================================
 
 If you'd like to improve upon this project, please feel free to fork
 this repository and submit a pull request.

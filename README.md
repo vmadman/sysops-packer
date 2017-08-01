@@ -1,5 +1,5 @@
-Sysops-Packer
-=============
+Luke's Packer Templates
+=======================
 
 This repository contains my personal Packer templates, which are used
 to build various images (e.g. Vagrant Images) across my projects.

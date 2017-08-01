@@ -1,5 +1,5 @@
-Sysops-Packer: Building
-=======================
+Luke's Packer Templates: Building
+=================================
 
 This section describes how to build the Packer Templates found in this
 repository.  Before you get started, however, you'll need to meet this

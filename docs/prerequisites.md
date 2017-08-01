@@ -1,5 +1,5 @@
-Sysops-Packer: Prerequisites
-============================
+Luke's Packer Templates: Prerequisites
+======================================
 
 In order to use any of my images, you'll need Vagrant.
 
