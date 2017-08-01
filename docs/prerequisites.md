@@ -1,5 +1,5 @@
-Prerequisites
-=============
+Sysops-Packer: Prerequisites
+============================
 
 In order to use any of my images, you'll need Vagrant.
 
@@ -21,3 +21,9 @@ that this repo was developed against:
 * Vagrant v1.8.5
 * Packer v1.0.3
 * VirtualBox v5.1.2 r108956
+
+## Further Reading
+
+* [Building](./building.md) - Information about building these Packer Templates.
+* [Project Readme](../README.md) - Basic project information can be
+found in the project's README.md.
