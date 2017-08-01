@@ -26,9 +26,10 @@ end
 
 ## Documentation
 
-1. [Usage](./docs/usage.md) - Information about using my Vagrant boxes
-2. [Building](./docs/building.md) - Information about building these Packer Templates.
-3. [Contributing](./docs/contributing.md) - How to contribute to this repo.
+1. [About](./docs/about.md) - Basic project information.
+2. [Usage](./docs/usage.md) - Information about using my Vagrant boxes
+3. [Building](./docs/building.md) - Information about building these Packer Templates.
+4. [Contributing](./docs/contributing.md) - How to contribute to this repo.
 
 ## License
 
